@@ -1,0 +1,19 @@
+<html>
+<head> 
+<meta charset="utf-8">
+<meta name="description" content="This plug-in is required to open PDF files encrypted by FileOpen rights management software, and is authorized by Adobe Systems to load in Adobe Acrobat and the free Adobe Reader. The plug-in manages the open and print commands in the Adobe Reader according to the access controls set by the publisher. Any access controls on the encrypted files have been placed there at the discretion of the document publisher. The plug-in alone will not grant access to encrypted files; you must follow the publishers' instructions for obtaining access.">
+<meta name="keywords" content="file open plug in, FileOpen Plug-in, plug-in, plug in, encrypted pdf files, pdf files">
+<meta name="author" content="christopher.sorge.ctr@dla.mil">
+</head>
+<body>
+
+<h1 style="background-color:blue;color:white;width:23%">SWID TAGS</h1>
+
+<form action="http://plugin.fileopen.com/Default.aspx?bhcp=1">
+	<input type="submit" value="Click for Link to Vendor Site">
+</form>
+
+</body>
+<footer>
+</footer>
+</html>
