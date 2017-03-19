@@ -1,1 +1,55 @@
-https://codepen.io/bluebeacon/pen/GZLvWW
+<html lang="en-US">
+
+<head>
+  <style type="text/css">
+    h1 {text-align:center;}
+    h2 {text-align:center;}
+  </style>
+  <style type="text/css">
+    #idiv {
+     margin-left: auto;
+     margin-right: auto;
+     width: 70em;
+     border: 1px white;
+     padding: 1px;
+    }
+    div {
+  text-align:center;
+  width:100%;
+}
+iframe{
+  width: 500px;
+}
+  </style>
+</head>
+
+<body>
+
+  <body style="background-color:lightblue;" onresize="myFunction()">
+    <h1 class=text-primary style="color:black">!Universal Safe Space for Microagressions!</h1>
+
+    <h2 style="color:black"><i>Feel Something, Say Something</i></h2>
+
+    <div id="idiv">
+      <img src="https://i.ytimg.com/vi/sXQkXXBqj_U/maxresdefault.jpg" class="centerImage" alt="Mountain View" style="width:1000px;height:600px;">
+
+      <p align="center">This is just a tribute...</P>
+    
+    <iframe width="500" height="300" src="https://www.youtube.com/embed/sXQkXXBqj_U" frameborder="5" allowfullscreen></iframe>
+   </div>
+  <p align="center">Video courtesy of <a href="https://www.youtube.com/" target="_blank">YouTube</a>.</p>
+  
+  <div class="span4 text-left"><a href="https://en.wikipedia.org/wiki/Microaggression_theory" class="btn">More on Microaggressions</a></div>
+  <div class="span4 text-right"><a href="https://en.wikipedia.org/wiki/Safe-space" class="btn">More on Safe-Spaces</a></div>
+  
+  <button type="button" onclick="alert('Calm Down There Is No Need To Get Angry')">More on Microaggressions</button>
+  <div align="right">
+  
+       <button type="button" onclick="alert('Congratulations You Are Safe')">More on Safe-Spaces</button>
+  </div>
+  <p align="center">Once upon a time someone invented the concept of a safe-space because of people's mindless rage that often took the form of microaggressions. <br> There was much confusion in the land and this made leaders very fearful. <br> Perhaps you too can look deep within and understand that you are to blame for things you haven't thought of yet?</p>
+  </body>
+  <footer>
+  <meta name="author" content="christopher sorge">
+  <meta name"keywords" content="sorge, christopher, christopher sorge, probxorsol, freecodecamp">
+  </footer> 
